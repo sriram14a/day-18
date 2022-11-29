@@ -1,0 +1,38 @@
+.crd{
+    height: 25rem;
+}
+.hgt{
+    height: 150px;
+}
+.inp{
+    border-radius: 10px;
+    border: .3px solid  rgb(234, 234, 241);
+    box-shadow: 1px 3px 10px rgba(16, 13, 13, 0.263);
+    width: 300px;
+    height: 35px;
+    outline: 0;
+    margin: 0;
+    font-size: 15px;
+    padding-left: 20px;
+}
+::placeholder{
+ color: rgba(112, 115, 118, 0.442);
+}
+.bwidth{
+    width: 100px;
+    height: 35px;
+    border: none;
+    border-radius: 0px 7px 7px 0px;
+    color: whitesmoke;
+    font-size: 18px;
+    margin-left: 0px;
+    background-color:rgba(128, 128, 128, 0.733);
+    box-shadow: 1px 3px 10px rgba(16, 13, 13, 0.263);
+}
+.temp{
+    font-size: 18px;
+    padding: 8px;
+}
+p{
+    margin-bottom: 4px;
+}
